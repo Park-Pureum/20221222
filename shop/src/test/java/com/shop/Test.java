@@ -1,5 +1,5 @@
-package com.shop
+package com.shop;
 
-public Test{
+public class Test{
 
 }
